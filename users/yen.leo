@@ -39,15 +39,22 @@
 <v t="leo.20170222115530.1" a="E"><vh>封面投影片</vh>
 <v t="leo.20170222115530.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20170301112849.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20170301112849.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20170301113453.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20170301113453.2"><vh>封面投影片內容</vh></v>
+</v>
 </v>
 </v>
 </v>
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
-<v t="yen.20170123225841.1"><vh>@edit 20170108.md</vh></v>
-<v t="leo.20170315011905.1"><vh>@edit 20170315.md</vh></v>
-<v t="yen.20170108171733.81"><vh>@path pages</vh>
+<v t="yen.20170221100209.1"><vh>@edit 20170222.md</vh></v>
+<v t="leo.20170301112616.1"><vh>@edit 20170301.md</vh></v>
+<v t="leo.20170301120755.1"><vh>@edit 20170308.md</vh></v>
+<v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
@@ -73,16 +80,37 @@
 </v>
 </v>
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
+<v t="leo.20170315101923.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170315101923.3"><vh>Recovered node "封面投影片" from @clean index.html</vh>
+<v t="leo.20170315101923.4"><vh>old:封面投影片</vh></v>
+<v t="leo.20170315101923.5"><vh>new:封面投影片</vh></v>
+</v>
+<v t="leo.20170315101923.6"><vh>Recovered node "封面投影片內容" from @clean index.html</vh>
+<v t="leo.20170315101923.7"><vh>old:封面投影片內容</vh></v>
+<v t="leo.20170315101923.8"><vh>new:封面投影片內容</vh></v>
+</v>
+<v t="leo.20170315101923.9"><vh>Recovered node "封面投影片" from @clean index.html</vh>
+<v t="leo.20170315101923.10"><vh>old:封面投影片</vh></v>
+<v t="leo.20170315101923.11"><vh>new:封面投影片</vh></v>
+</v>
+<v t="leo.20170315101923.12"><vh>Recovered node "封面投影片內容" from @clean index.html</vh>
+<v t="leo.20170315101923.13"><vh>old:封面投影片內容</vh></v>
+<v t="leo.20170315101923.14"><vh>new:封面投影片內容</vh></v>
+</v>
+<v t="leo.20170315101923.15"><vh>Recovered node "封面投影片" from @clean index.html</vh>
+<v t="leo.20170315101923.16"><vh>old:封面投影片</vh></v>
+<v t="leo.20170315101923.17"><vh>new:封面投影片</vh></v>
+</v>
+<v t="leo.20170315101923.18"><vh>Recovered node "封面投影片內容" from @clean index.html</vh>
+<v t="leo.20170315101923.19"><vh>old:封面投影片內容</vh></v>
+<v t="leo.20170315101923.20"><vh>new:封面投影片內容</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="leo.20170222115530.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
 </t>
 <t tx="leo.20170222115530.2">#week1
 *Blender 3dstudio maya
@@ -94,7 +122,181 @@
 * 利用vrep配合Scite完成做動模擬
 
 
+</t>
+<t tx="leo.20170301112849.1">@others
+</t>
+<t tx="leo.20170301112849.2"></t>
+<t tx="leo.20170301113453.1">@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
+
+						
+</t>
+<t tx="leo.20170301113453.2">
+</t>
+<t tx="leo.20170315101923.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170315101923.11">@others
+</t>
+<t tx="leo.20170315101923.12">(uncached) leo.20170301112849.2
+Diff...
++ #week2
++ 
++ * 使用ethercalc製作簡易的分組表格
++ * 認識cp950(大五碼)
++ * 使用py建立分組程序，並且挑出未被分類的學生
++ * 製作簡易連桿組
++ * 了解vrep起始抓點，在做stl檔的時候原點需跟物件拉開一定距離
++ 
++ 
+</t>
+<t tx="leo.20170315101923.13">#week2
+
+* 使用ethercalc製作簡易的分組表格
+* 認識cp950(大五碼)
+* 使用py建立分組程序，並且挑出未被分類的學生
+* 製作簡易連桿組
+* 了解vrep起始抓點，在做stl檔的時候原點需跟物件拉開一定距離
+
+
+</t>
+<t tx="leo.20170315101923.14"></t>
+<t tx="leo.20170315101923.15">(uncached) leo.20170301113453.1
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
+  @others
+      &lt;/script&gt;
+  &lt;/section&gt;
+  
+  
+  						
+</t>
+<t tx="leo.20170315101923.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170315101923.17">@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170315101923.18">(uncached) leo.20170301113453.2
+Diff...
++ #week3
+  
++ * 從 https://mde2al.kmol.info 進入新區域的wiki檢視每周進度
++ * 了解Altair的soildthinking
++ * 認識Altair的特色，其中包括檢測受力.受熱.流力.最小化資源利用.較* 為人性的快捷列
++ * 更改start的fossil路徑並且建立自己的近端fossil帳號密碼
++ 
+</t>
+<t tx="leo.20170315101923.19">#week3
+
+* 從 https://mde2al.kmol.info 進入新區域的wiki檢視每周進度
+* 了解Altair的soildthinking
+* 認識Altair的特色，其中包括檢測受力.受熱.流力.最小化資源利用.較* 為人性的快捷列
+* 更改start的fossil路徑並且建立自己的近端fossil帳號密碼
+
+</t>
+<t tx="leo.20170315101923.2"></t>
+<t tx="leo.20170315101923.20">
+</t>
+<t tx="leo.20170315101923.3">(uncached) leo.20170222115530.1
+Diff...
+  &lt;section data-markdown&gt;
+      &lt;script type="text/template"&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 						
+</t>
+<t tx="leo.20170315101923.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170315101923.5">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+</t>
+<t tx="leo.20170315101923.6">(uncached) leo.20170222115530.2
+Diff...
+- #week1
++ #week1筆記
+?       ++
++ 
+- *Blender 3dstudio maya
++ * 認識Blender 3dstudio maya
+?  +++
+- * stunnel 的使用 http的proxy
+?          --
++ * 了解stunnel使用 http的proxy
+?   ++
+  * stunnel&gt;config&gt;stunnel.conf\
+  * ;(分號)=註解
+  * ipconfig /all 查詢ip
+- * https://192.168.1.24/2017springvcp_hw/index
++ * 修改ip https://192.168.1.24/2017springvcp_hw/index
+?  +++++
+  * 利用vrep配合Scite完成做動模擬
+  
+  
+</t>
+<t tx="leo.20170315101923.7">#week1筆記
+
+* 認識Blender 3dstudio maya
+* 了解stunnel使用 http的proxy
+* stunnel&gt;config&gt;stunnel.conf\
+* ;(分號)=註解
+* ipconfig /all 查詢ip
+* 修改ip https://192.168.1.24/2017springvcp_hw/index
+* 利用vrep配合Scite完成做動模擬
+
+
+</t>
+<t tx="leo.20170315101923.8">#week1
+*Blender 3dstudio maya
+* stunnel 的使用 http的proxy
+* stunnel&gt;config&gt;stunnel.conf\
+* ;(分號)=註解
+* ipconfig /all 查詢ip
+* https://192.168.1.24/2017springvcp_hw/index
+* 利用vrep配合Scite完成做動模擬
+
+
+</t>
+<t tx="leo.20170315101923.9">(uncached) leo.20170301112849.1
+Diff...
++ &lt;section data-markdown&gt;
++     &lt;script type="text/template"&gt;
+  @others
++     &lt;/script&gt;
++ &lt;/section&gt;
++ 
++ 
++ 						
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
