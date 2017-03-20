@@ -125,7 +125,13 @@
 </t>
 <t tx="leo.20170301112849.1">@others
 </t>
-<t tx="leo.20170301112849.2"></t>
+<t tx="leo.20170301112849.2">#week3
+
+* 從 https://mde2al.kmol.info 進入新區域的wiki檢視每周進度
+* 了解Altair的soildthinking
+* 認識Altair的特色，其中包括檢測受力.受熱.流力.最小化資源利用.較* 為人性的快捷列
+* 更改start的fossil路徑並且建立自己的近端fossil帳號密碼
+</t>
 <t tx="leo.20170301113453.1">@others
     &lt;/script&gt;
 &lt;/section&gt;
@@ -134,6 +140,12 @@
 						
 </t>
 <t tx="leo.20170301113453.2">
+#week4
+
+* 使用老師建立的新fossil，獲得管理權後加入其他組員
+* 認識Xming X-windows vnc remote desktop
+* 介紹altair的應力分析
+
 </t>
 <t tx="leo.20170315101923.10">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
