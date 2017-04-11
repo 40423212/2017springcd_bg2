@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-02-22T11:00:00+08:00</updated><entry><title>逐字搞</title><link href="./zhu-zi-gao.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-02-22:./zhu-zi-gao.html</id><summary type="html">&lt;p&gt;逐字搞放置處&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-04-11T11:00:00+08:00</updated><entry><title>期中進度整理</title><link href="./qi-zhong-jin-du-zheng-li.html" rel="alternate"></link><updated>2017-04-11T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-11:./qi-zhong-jin-du-zheng-li.html</id><summary type="html">&lt;p&gt;連桿組件製作，以及fossil網誌進度。
+
+&lt;iframe src="https://player.vimeo.com/video/209477621" width="640" height="325" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209477621"&gt;2017-03-22_06-34-54&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/209398902" width="640" height="325" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/209398902"&gt;2017-03-21_22-41-15&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;由40423217提供8連桿/4連桿繪製/組合影片&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/208424902" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/208424902"&gt;20170315-繪製onelink並導入至vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user45596496"&gt;蘇柏丞&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;由40423254提供單連桿繪製與vrep做動模擬&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/212731781" width="640" height="333" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/212731781"&gt;2017-04-11_19-51-04 w7 40423212&lt;/a&gt; from &lt;a href="https://vimeo.com/user45523667"&gt;40423212&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;由40423212提供fossil更新教程&lt;/p&gt;</summary><category term="w7"></category></entry><entry><title>逐字搞</title><link href="./zhu-zi-gao.html" rel="alternate"></link><updated>2017-02-22T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-02-22:./zhu-zi-gao.html</id><summary type="html">&lt;p&gt;逐字搞放置處&lt;/p&gt;
 
 
 &lt;p&gt;14-1
@@ -68,7 +86,7 @@ what we can do now is have say what can solve of this normally consist in many d
 and you still want a group oppoments of the single part of the management simply hold in
 so now those conbine exist in one part but you can also have mutiple representation for that part
 so if you want other representation what you maybe have a different
-mashidencity you can do that and figure your model according to different type so dissappoint for crash or NVH&lt;/p&gt;</summary><category term="w1"></category></entry><entry><title>bg2成員</title><link href="./bg2cheng-yuan.html" rel="alternate"></link><published>2017-01-08T11:00:00+08:00</published><updated>2017-01-08T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-01-08:./bg2cheng-yuan.html</id><summary type="html">&lt;p&gt;成員
+mashidencity you can do that and figure your model according to different type so dissappoint for crash or NVH&lt;/p&gt;</summary><category term="w1"></category></entry><entry><title>bg2成員</title><link href="./bg2cheng-yuan.html" rel="alternate"></link><updated>2017-01-08T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-01-08:./bg2cheng-yuan.html</id><summary type="html">&lt;p&gt;成員
 
 前排到後排排序:
 bg2_40423224
@@ -80,7 +98,7 @@ bg2_40423218
 bg2_40423254
 bg2_40423239
 bg2_40423240
-bg2_40423212&lt;/p&gt;</summary><category term="w3"></category></entry><entry><title>bg2Fossil</title><link href="./bg2fossil.html" rel="alternate"></link><published>2017-01-08T11:00:00+08:00</published><updated>2017-01-08T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-01-08:./bg2fossil.html</id><summary type="html">&lt;p&gt;bg2筆記放置&lt;/p&gt;
+bg2_40423212&lt;/p&gt;</summary><category term="w3"></category></entry><entry><title>bg2Fossil</title><link href="./bg2fossil.html" rel="alternate"></link><updated>2017-01-08T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-01-08:./bg2fossil.html</id><summary type="html">&lt;p&gt;bg2筆記放置&lt;/p&gt;
 
 
 &lt;p&gt;&lt;a href="https://mde2a2.kmol.info/cdbg2/home"&gt; cdbg2&lt;/a&gt;&lt;/p&gt;
