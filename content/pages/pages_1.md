@@ -2,12 +2,15 @@ Title: About
 
 ##2017Spring 機械設計工程系協同產品設計實習
 
-課程倉儲: <a href="http://github.com/mdecourse/2017springcd">http://github.com/mdecourse/2017springcd</a>
-
-課程投影片: <a href="http://mdecourse.github.io/2017springcd">http://mdecourse.github.io/2017springcd</a>
-
-課程網誌: <a href="http://mdecourse.github.io/2017springcd/blog">http://mdecourse.github.io/2017springcd/blog</a>
-
+<p><a href="https://mde2a2.kmol.info/cdbg2/home"> cdbg2</a></p>
+<p><a href="https://github.com/40423212/2017springcd_bg2">bg2倉儲</a></p>
+<p><a href="https://github.com/40423204/2017springcd_hw">4號倉儲</a></p>
+<p><a href="https://github.com/40423212/2017springcd_hw">12號倉儲</a></p>
+<p><a href="https://github.com/40423217/2017springcd_hw">17號倉儲</a></p>
+<p><a href="https://github.com/a40423239/2017springcd_hw">39號倉儲</a></p>
+<p><a href="https://github.com/40423240/2017springcd_hw">40號倉儲</a></p>
+<p><a href="https://github.com/40423253/2017springcd_hw">53號倉儲</a></p>
+<p><a href="https://github.com/40423254/2017springcd_hw">54號倉儲</a></p>
 
 
 

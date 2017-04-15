@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-04-11T20:24:14-00:00</lastmod>
+<lastmod>2017-04-15T22:40:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-04-11T20:24:14-00:00</lastmod>
+<lastmod>2017-04-15T22:40:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-04-11T20:24:14-00:00</lastmod>
+<lastmod>2017-04-15T22:40:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-04-11T20:24:14-00:00</lastmod>
+<lastmod>2017-04-15T22:40:55-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -74,13 +74,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/w3.html</loc>
-<lastmod>2017-01-08T11:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>./tag/w1.html</loc>
 <lastmod>2017-02-22T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -90,6 +83,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./tag/w7.html</loc>
 <lastmod>2017-04-11T11:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/w3.html</loc>
+<lastmod>2017-01-08T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
