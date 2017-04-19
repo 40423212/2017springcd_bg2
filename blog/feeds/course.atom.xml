@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-04-19T11:01:00+08:00</updated><entry><title>期中考</title><link href="./qi-zhong-kao.html" rel="alternate"></link><published>2017-04-19T11:01:00+08:00</published><updated>2017-04-19T11:01:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-19:./qi-zhong-kao.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-04-19T11:01:00+08:00</updated><entry><title>期中考-第二節</title><link href="./qi-zhong-kao-di-er-jie.html" rel="alternate"></link><published>2017-04-19T11:01:00+08:00</published><updated>2017-04-19T11:01:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-19:./qi-zhong-kao-di-er-jie.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
