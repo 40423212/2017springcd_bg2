@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-19T11:00:00+08:00</updated><entry><title></title><link href="./.html" rel="alternate"></link><published>2017-04-19T11:00:00+08:00</published><updated>2017-04-19T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-19:./.html</id><summary type="html">&lt;p&gt;連桿組件製作，以及fossil網誌進度。
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-19T11:00:00+08:00</updated><entry><title>期中考</title><link href="./qi-zhong-kao.html" rel="alternate"></link><published>2017-04-19T11:00:00+08:00</published><updated>2017-04-19T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-19:./qi-zhong-kao.html</id><summary type="html">&lt;p&gt;連桿組件製作，以及fossil網誌進度。
 &lt;/p&gt;
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
@@ -33,9 +33,9 @@ fourbar_data = open("./../40423204/data/midterm1.csv").read()
 fourbar_list = fourbar_data.splitlines()
 fourbar2_data = open("./../40423212/data/midterm2.csv").read()
 fourbar2_list = fourbar2_data.splitlines()
-fourbar3_data = open("./../40423217git/data/midterm3.csv").read()
+fourbar3_data = open("./../40423217/data/midterm3.csv").read()
 fourbar3_list = fourbar3_data.splitlines()
-fourbar4_data = open("./../40423218/data/midterm4.csv").read()
+fourbar4_data = open("./../40423217git/data/midterm4.csv").read()
 fourbar4_list = fourbar4_data.splitlines()
 fourbar5_data = open("./../40423224/data/midterm5.csv").read()
 fourbar5_list = fourbar5_data.splitlines()
