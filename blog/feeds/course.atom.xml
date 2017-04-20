@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-04-19T11:01:00+08:00</updated><entry><title>期中考第二節</title><link href="./qi-zhong-kao-di-er-jie.html" rel="alternate"></link><published>2017-04-19T11:01:00+08:00</published><updated>2017-04-19T11:01:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-19:./qi-zhong-kao-di-er-jie.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-04-19T11:01:00+08:00</updated><entry><title>期中考第二節</title><link href="./qi-zhong-kao-di-er-jie.html" rel="alternate"></link><updated>2017-04-19T11:01:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-19:./qi-zhong-kao-di-er-jie.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
@@ -28,6 +28,8 @@ import math
 canvas = doc["fourbar"]
 container1 = doc['container1']
 ctx = canvas.getContext("2d")
+fourbar1_data = open("./../data/midterm1.csv").read()
+fourbar1_list = fourbar2_data.splitlines()
 
 fourbar2_data = open("./../data/midterm2.csv").read()
 fourbar2_list = fourbar2_data.splitlines()
@@ -69,61 +71,68 @@ start_point = fourbar2_list[0].split(",")
 ctx.moveTo(float(start_point[0])*ratio, float(start_point[1])*ratio)
 count = 0
 
+for data in fourbar1_list[1:]:
+    point = data.split(",")
+    #count = count + 1
+    #container1 &lt;= str(count) + ":" + point[0] + "," + point[1]
+    #container1 &lt;= html.BR()
+    ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
+ctx.strokeStyle = "blue"
+
 for data in fourbar2_list[1:]:
     point = data.split(",")
     #count = count + 1
     #container1 &lt;= str(count) + ":" + point[0] + "," + point[1]
     #container1 &lt;= html.BR()
     ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
-
+ctx.strokeStyle = "blue"
 for data in fourbar3_list[1:]:
     point = data.split(",")
     #count = count + 1
     #container1 &lt;= str(count) + ":" + point[0] + "," + point[1]
     #container1 &lt;= html.BR()
     ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
-
+ctx.strokeStyle = "blue"
 for data in fourbar4_list[1:]:
     point = data.split(",")
     #count = count + 1
     #container1 &lt;= str(count) + ":" + point[0] + "," + point[1]
     #container1 &lt;= html.BR()
     ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
-
+ctx.strokeStyle = "blue"    
 for data in fourbar5_list[1:]:
     point = data.split(",")
     #count = count + 1
     #container1 &lt;= str(count) + ":" + point[0] + "," + point[1]
     #container1 &lt;= html.BR()
     ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
-
+ctx.strokeStyle = "blue"    
 for data in fourbar6_list[1:]:
     point = data.split(",")
     #count = count + 1
     #container1 &lt;= str(count) + ":" + point[0] + "," + point[1]
     #container1 &lt;= html.BR()
     ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
-
+ctx.strokeStyle = "blue"    
 for data in fourbar7_list[1:]:
     point = data.split(",")
     #count = count + 1
     #container1 &lt;= str(count) + ":" + point[0] + "," + point[1]
     #container1 &lt;= html.BR()
     ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
-
+ctx.strokeStyle = "blue"   
 for data in fourbar8_list[1:]:
     point = data.split(",")
     #count = count + 1
     #container1 &lt;= str(count) + ":" + point[0] + "," + point[1]
     #container1 &lt;= html.BR()
     ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
-# 設定顏色為藍色, 也可以使用 "rgb(0, 0, 255)" 字串設定顏色值
 ctx.strokeStyle = "blue"
 # 實際執行畫線
 ctx.stroke()
 ctx.closePath()
 
-&lt;/script&gt;</summary><category term="w9"></category></entry><entry><title>期中進度整理</title><link href="./qi-zhong-jin-du-zheng-li.html" rel="alternate"></link><published>2017-04-11T11:00:00+08:00</published><updated>2017-04-11T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-11:./qi-zhong-jin-du-zheng-li.html</id><summary type="html">&lt;p&gt;連桿組件製作，以及fossil網誌進度。
+&lt;/script&gt;</summary><category term="w9"></category></entry><entry><title>期中進度整理</title><link href="./qi-zhong-jin-du-zheng-li.html" rel="alternate"></link><updated>2017-04-11T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-11:./qi-zhong-jin-du-zheng-li.html</id><summary type="html">&lt;p&gt;連桿組件製作，以及fossil網誌進度。
 
 &lt;iframe src="https://player.vimeo.com/video/209477621" width="640" height="325" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/209477621"&gt;2017-03-22_06-34-54&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
@@ -141,7 +150,7 @@ ctx.closePath()
 
 &lt;p&gt;&lt;a href="https://vimeo.com/212731781"&gt;2017-04-11_19-51-04 w7 40423212&lt;/a&gt; from &lt;a href="https://vimeo.com/user45523667"&gt;40423212&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;由40423212提供fossil更新教程&lt;/p&gt;</summary><category term="w7"></category></entry><entry><title>逐字搞</title><link href="./zhu-zi-gao.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-02-22:./zhu-zi-gao.html</id><summary type="html">&lt;p&gt;逐字搞放置處&lt;/p&gt;
+&lt;p&gt;由40423212提供fossil更新教程&lt;/p&gt;</summary><category term="w7"></category></entry><entry><title>逐字搞</title><link href="./zhu-zi-gao.html" rel="alternate"></link><updated>2017-02-22T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-02-22:./zhu-zi-gao.html</id><summary type="html">&lt;p&gt;逐字搞放置處&lt;/p&gt;
 
 
 &lt;p&gt;14-1
@@ -210,7 +219,7 @@ what we can do now is have say what can solve of this normally consist in many d
 and you still want a group oppoments of the single part of the management simply hold in
 so now those conbine exist in one part but you can also have mutiple representation for that part
 so if you want other representation what you maybe have a different
-mashidencity you can do that and figure your model according to different type so dissappoint for crash or NVH&lt;/p&gt;</summary><category term="w1"></category></entry><entry><title>bg2成員</title><link href="./bg2cheng-yuan.html" rel="alternate"></link><published>2017-01-08T11:00:00+08:00</published><updated>2017-01-08T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-01-08:./bg2cheng-yuan.html</id><summary type="html">&lt;p&gt;成員
+mashidencity you can do that and figure your model according to different type so dissappoint for crash or NVH&lt;/p&gt;</summary><category term="w1"></category></entry><entry><title>bg2成員</title><link href="./bg2cheng-yuan.html" rel="alternate"></link><updated>2017-01-08T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-01-08:./bg2cheng-yuan.html</id><summary type="html">&lt;p&gt;成員
 &lt;/p&gt;
 &lt;p&gt;bg2_40423204
 bg2_40423209
@@ -221,7 +230,7 @@ bg2_40423224
 bg2_40423239
 bg2_40423240
 bg2_40423253
-bg2_40423254&lt;/p&gt;</summary><category term="w3"></category></entry><entry><title>bg2Fossil</title><link href="./bg2fossil.html" rel="alternate"></link><published>2017-01-08T11:00:00+08:00</published><updated>2017-01-08T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-01-08:./bg2fossil.html</id><summary type="html">&lt;p&gt;bg2筆記放置&lt;/p&gt;
+bg2_40423254&lt;/p&gt;</summary><category term="w3"></category></entry><entry><title>bg2Fossil</title><link href="./bg2fossil.html" rel="alternate"></link><updated>2017-01-08T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-01-08:./bg2fossil.html</id><summary type="html">&lt;p&gt;bg2筆記放置&lt;/p&gt;
 
 
 &lt;p&gt;&lt;a href="https://mde2a2.kmol.info/cdbg2/home"&gt; cdbg2&lt;/a&gt;&lt;/p&gt;
