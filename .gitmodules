@@ -2,3 +2,31 @@
 	path = 40423218
 	url = https://github.com/40423218/2017springcd_hw.git
 	branch = gh-pages
+[submodule "40423204"]
+	path = 40423204
+	url = https://github.com/40423204/2017springcd_hw.git
+	branch = gh-pages
+[submodule "40423212"]
+	path = 40423212
+	url = https://github.com/40423212/2017springcd_hw.git
+	branch = gh-pages
+[submodule "40423217"]
+	path = 40423217
+	url = https://github.com/40423217/2017springcd_hw.git
+	branch = gh-pages
+[submodule "40423224"]
+	path = 40423224
+	url = https://github.com/40423224/2017springcd_hw.git
+	branch = gh-pages
+[submodule "40423239"]
+	path = 40423239
+	url = https://github.com/a40423239/2017springcd_hw.git
+	branch = gh-pages
+[submodule "40423240"]
+	path = 40423240
+	url = https://github.com/40423240/2017springcd_hw.git
+	branch = gh-pages
+[submodule "40423254"]
+	path = 40423254
+	url = https://github.com/40423254/2017springcd_hw.git
+	branch = gh-pages
