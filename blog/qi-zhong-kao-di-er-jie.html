@@ -379,10 +379,9 @@ ctx.transform(1, 0, 0, -1, canvas.width/2+250, canvas.height/2+100)
 ratio = 4
 ctx.moveTo(0, 0)
 ctx.lineTo(-30*ratio, 0)
-start_point = fourbar2_list[0].split(",")
+start_point = fourbar1_list[0].split(",")
 ctx.moveTo(float(start_point[0])*ratio, float(start_point[1])*ratio)
 count = 0
-
 for data in fourbar1_list[1:]:
     point = data.split(",")
     #count = count + 1
@@ -390,7 +389,6 @@ for data in fourbar1_list[1:]:
     #container1 <= html.BR()
     ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
 ctx.strokeStyle = "blue"
-
 for data in fourbar2_list[1:]:
     point = data.split(",")
     #count = count + 1
