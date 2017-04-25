@@ -82,9 +82,6 @@ for data in fourbar5_list[1:]:
 for data in fourbar6_list[1:]:
     point = data.split(",")
     ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
-for data in fourbar7_list[1:]:
-    point = data.split(",")
-    ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
 for data in fourbar8_list[1:]:
     point = data.split(",")
     ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
