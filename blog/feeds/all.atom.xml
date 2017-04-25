@@ -28,8 +28,8 @@ import math
 canvas = doc["fourbar"]
 container1 = doc['container1']
 ctx = canvas.getContext("2d")
-fourbar1_data = open("./../data/midterm1.csv").read()
-fourbar1_list = fourbar2_data.splitlines()
+fourbar2_data = open("./../data/midterm1.csv").read()
+fourbar2_list = fourbar2_data.splitlines()
 
 #container1 &lt;= fourbar_list[0]
 # 以下可以利用 ctx 物件進行畫圖
@@ -49,7 +49,7 @@ ctx.lineTo(-30*ratio, 0)
 start_point = fourbar1_list[0].split(",")
 ctx.moveTo(float(start_point[0])*ratio, float(start_point[1])*ratio)
 count = 0
-for data in fourbar1_list[1:]:
+for data in fourbar2_list[1:]:
     point = data.split(",")
     #count = count + 1
     #container1 &lt;= str(count) + ":" + point[0] + "," + point[1]
