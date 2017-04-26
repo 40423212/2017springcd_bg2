@@ -57,7 +57,13 @@ window.onload = function(){
 
 &lt;script src="./../data/w9/loader.js"&gt;&lt;/script&gt;
 
-&lt;script src="./../data/w9/stl.js"&gt;&lt;/script&gt;</summary><category term="w10"></category></entry><entry><title>期中考第二節</title><link href="./qi-zhong-kao-di-er-jie.html" rel="alternate"></link><published>2017-04-19T11:01:00+08:00</published><updated>2017-04-19T11:01:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-19:./qi-zhong-kao-di-er-jie.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;script src="./../data/w9/stl.js"&gt;&lt;/script&gt;
+
+&lt;div&gt;
+select stl file: &lt;input type="file" id="file" /&gt; or drop stl file
+&lt;/div&gt;
+
+&lt;div id="view"&gt;&lt;/div&gt;</summary><category term="w10"></category></entry><entry><title>期中考第二節</title><link href="./qi-zhong-kao-di-er-jie.html" rel="alternate"></link><published>2017-04-19T11:01:00+08:00</published><updated>2017-04-19T11:01:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-19:./qi-zhong-kao-di-er-jie.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;協同影片&lt;/p&gt;
 
