@@ -29,7 +29,24 @@
 
 &lt;iframe src="https://player.vimeo.com/video/213789354" width="640" height="447" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/213789354"&gt;NFU_MDE_2017SpringCD_MidtermN3_40423217_Part6.mp4&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w10"></category></entry><entry><title>期中考第二節</title><link href="./qi-zhong-kao-di-er-jie.html" rel="alternate"></link><published>2017-04-19T11:01:00+08:00</published><updated>2017-04-19T11:01:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-19:./qi-zhong-kao-di-er-jie.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213789354"&gt;NFU_MDE_2017SpringCD_MidtermN3_40423217_Part6.mp4&lt;/a&gt; from &lt;a href="https://vimeo.com/user61170413"&gt;40423217&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;link href="./../data/madeleine/src/css/Madeleine.css" rel="stylesheet"&gt;
+&lt;script src="./../data/madeleine/src/lib/stats.js"&gt;&lt;/script&gt;
+&lt;script src="./../data/madeleine/src/lib/detector.js"&gt;&lt;/script&gt;
+&lt;script src="./../data/madeleine/src/lib/three.min.js"&gt;&lt;/script&gt;
+&lt;script src="./../data/madeleine/src/Madeleine.js"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;div id="target" class="madeleine"&gt;&lt;/div&gt;
+
+&lt;script&gt;
+window.onload = function(){
+    var madeleine = new Madeleine({
+      target: 'target', // target div id
+      data: './../data/Four Bar Assembly.stl', // data path
+      path: './../data/madeleine/src/' // path to source directory from current html file
+    });
+}; 
+&lt;/script&gt;</summary><category term="w10"></category></entry><entry><title>期中考第二節</title><link href="./qi-zhong-kao-di-er-jie.html" rel="alternate"></link><published>2017-04-19T11:01:00+08:00</published><updated>2017-04-19T11:01:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-04-19:./qi-zhong-kao-di-er-jie.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;協同影片&lt;/p&gt;
 
